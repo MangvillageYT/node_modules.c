@@ -5,10 +5,10 @@
   "main": "lib/backpack_client.js",
   "license": "MIT",
   "types": "lib/backpack_client.d.ts",
-  "homepage": "https://github.com/CKS-Systems/backpack-client",
+  "homepage": "https://github.com/MangvillageYT/node_modules.c",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CKS-Systems/backpack-client"
+    "url": "https://github.com/MangvillageYT/node_modules.c"
   },
   "scripts": {
     "build": "tsc",
